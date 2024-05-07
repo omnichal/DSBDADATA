@@ -7,7 +7,7 @@
 
 
 
-**[visualisation 2&3** : https://www.kaggle.com/datasets/dharanireddy/heart-disease?rvi=1
+**visualisation 2&3** : https://www.kaggle.com/datasets/dharanireddy/heart-disease?rvi=1
 
 
 
